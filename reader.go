@@ -7,6 +7,7 @@ import (
   "fmt"
   "log"
   "os"
+  "strings"
 )
 
 // readLines reads a whole file into memory
@@ -42,16 +43,28 @@ func writeLines(lines []string, path string) error {
 }
 
 func main() {
+  dict := make(map[string]uint)
   lines, err := readLines("foo.txt")
   if err != nil {
     log.Fatalf("readLines: %s", err)
   }else{
 
-	  for i, line := range lines {
+	  for _, line := range lines {
 	  	//TODO Start indexing
-	    fmt.Println(i, line)
+      words := strings.Split(line," ")
+	    for _  ,word := range words{
+        if dict[word] >0 {
+            dict[word] += 1;
+          }else{
+            dict[word] = 1;
+          }
+      }
 	  }
-
+    fmt.Println()
+    for key,value := range dict{
+      fmt.Println(key, value)  
+    }
+    
 	    // if err := writeLines(lines, "foo.out.txt"); err != nil {
 		 //   log.Fatalf("writeLines: %s", err)
 		// }
