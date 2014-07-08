@@ -8,6 +8,7 @@ import (
   "log"
   "os"
   "strings"
+  "./utils"
 )
 
 // readLines reads a whole file into memory
@@ -42,15 +43,22 @@ func readLines(path string) (*map[string]uint, error) {
   return &dict, scanner.Err()
 }
 
+
+
 func main() {
+  queryString := "Neutron"
   
+  fmt.Println(utils.SearchURLPrefix)
+  links := utils.Scrape(utils.SearchURLPrefix+queryString,utils.Selector)   
+  for k,v := range links{
+    fmt.Println(k,utils.GetInfoCardText(v,utils.InfoCardSelector))
+
+  }
   dict, err := readLines("foo.txt")
   if err != nil {
     log.Fatalf("readLines: %s", err)
   }else{
     fmt.Println(*dict)
   }
-
-
 
 }

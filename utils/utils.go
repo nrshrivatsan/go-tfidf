@@ -9,22 +9,22 @@ import (
   "regexp"
 )
 
-func ReadRecords(fileName string) (s [][]string, err error) {
-  file, err := os.Open(fileName)
-  if err != nil {
-    return nil, err
-  }
-  defer file.Close()
+// func ReadRecords(fileName string) (s [][]string, err error) {
+//   file, err := os.Open(fileName)
+//   if err != nil {
+//     return nil, err
+//   }
+//   defer file.Close()
 
-  reader := csv.NewReader(file)
-  reader.TrailingComma = true
+//   reader := csv.NewReader(file)
+//   reader.TrailingComma = true
 
-  recordArray, err := reader.ReadAll()
-  if err != nil {
-    return nil, err
-  }
-  return recordArray, nil
-}
+//   recordArray, err := reader.ReadAll()
+//   if err != nil {
+//     return nil, err
+//   }
+//   return recordArray, nil
+// }
 
 func RemoveDuplicates(words []string) []string {
   newWords := make([]string, len(words))

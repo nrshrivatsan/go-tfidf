@@ -1,0 +1,6740 @@
+http://en.wikipedia.org/wiki/
+links map[particle:http://en.wikipedia.org/wiki/Elementary_particle fissile:http://en.wikipedia.org/wiki/Fissile hydrogen atom:http://en.wikipedia.org/wiki/Hydrogen_atom CPT-symmetry:http://en.wikipedia.org/wiki/CPT-symmetry neutron transport:http://en.wikipedia.org/wiki/Neutron_transport Faraday effect:http://en.wikipedia.org/wiki/Faraday_effect X-rays:http://en.wikipedia.org/wiki/X-rays nuclear force:http://en.wikipedia.org/wiki/Nuclear_force Thermal neutrons:http://en.wikipedia.org/wiki/Thermal_neutron Ultracold neutrons:http://en.wikipedia.org/wiki/Ultracold_neutrons reactor grade plutonium:http://en.wikipedia.org/wiki/Reactor_grade_plutonium nuclide:http://en.wikipedia.org/wiki/Nuclide californium:http://en.wikipedia.org/wiki/Californium radiation:http://en.wikipedia.org/wiki/Radiation baryon number:http://en.wikipedia.org/wiki/Baryon_number electric dipole moment:http://en.wikipedia.org/wiki/Electric_dipole_moment velocity selection:http://en.wikipedia.org/wiki/Neutron-velocity_selector photons:http://en.wikipedia.org/wiki/Photon uranium-235:http://en.wikipedia.org/wiki/Uranium-235 ln:http://en.wikipedia.org/wiki/Natural_logarithm J:http://en.wikipedia.org/wiki/Joule molecules:http://en.wikipedia.org/wiki/Molecules neutron moderator:http://en.wikipedia.org/wiki/Neutron_moderator mode:http://en.wikipedia.org/wiki/Mode_(statistics) condensed matter:http://en.wikipedia.org/wiki/Condensed_matter bremsstrahlung:http://en.wikipedia.org/wiki/Bremsstrahlung Nuclear fission reactors:http://en.wikipedia.org/wiki/Nuclear_reactor nuclear reactor:http://en.wikipedia.org/wiki/Nuclear_reactor nuclear proliferation:http://en.wikipedia.org/wiki/Nuclear_proliferation diproton:http://en.wikipedia.org/wiki/Diproton nuclear fusion reactors:http://en.wikipedia.org/wiki/Fusion_power neutron's magnetic moment:http://en.wikipedia.org/wiki/Neutron_magnetic_moment neutron scattering:http://en.wikipedia.org/wiki/Neutron_scattering spontaneous fission:http://en.wikipedia.org/wiki/Spontaneous_fission neutron capture:http://en.wikipedia.org/wiki/Neutron_capture hydrogen-1:http://en.wikipedia.org/wiki/Hydrogen-1 beyond the Standard Model:http://en.wikipedia.org/wiki/Beyond_the_Standard_Model nuclear transmutations:http://en.wikipedia.org/wiki/Nuclear_transmutation spallation sources:http://en.wikipedia.org/wiki/Spallation neutron emission:http://en.wikipedia.org/wiki/Neutron_emission fission reactors:http://en.wikipedia.org/wiki/Nuclear_reactor tokamak:http://en.wikipedia.org/wiki/Tokamak carbon-12:http://en.wikipedia.org/wiki/Carbon-12 electron antineutrino:http://en.wikipedia.org/wiki/Electron_neutrino polonium:http://en.wikipedia.org/wiki/Polonium gamma radiation:http://en.wikipedia.org/wiki/Gamma_radiation down quarks:http://en.wikipedia.org/wiki/Down_quark fusion:http://en.wikipedia.org/wiki/Nuclear_fusion flavour:http://en.wikipedia.org/wiki/Flavour_(physics) cosmic rays:http://en.wikipedia.org/wiki/Cosmic_ray alpha particles:http://en.wikipedia.org/wiki/Alpha_particle weak interaction:http://en.wikipedia.org/wiki/Weak_interaction ordinary water:http://en.wikipedia.org/wiki/Water kinetic theory:http://en.wikipedia.org/wiki/Kinetic_theory nuclear weapon design:http://en.wikipedia.org/wiki/Nuclear_weapon_design fertile:http://en.wikipedia.org/wiki/Fertile_material heavy water:http://en.wikipedia.org/wiki/Heavy_water fertile materials:http://en.wikipedia.org/wiki/Fertile_material reactivity:http://en.wikipedia.org/wiki/Nuclear_chain_reaction Irène Joliot-Curie:http://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie e:http://en.wikipedia.org/wiki/Elementary_charge tetraneutrons:http://en.wikipedia.org/wiki/Tetraneutrons electric charge:http://en.wikipedia.org/wiki/Electric_charge nuclear fission:http://en.wikipedia.org/wiki/Nuclear_fission neutron sources:http://en.wikipedia.org/wiki/Neutron_source irradiation:http://en.wikipedia.org/wiki/Irradiation Viktor Ambartsumian:http://en.wikipedia.org/wiki/Viktor_Ambartsumian Planck constant:http://en.wikipedia.org/wiki/Planck_constant electron capture:http://en.wikipedia.org/wiki/Electron_capture transmutation:http://en.wikipedia.org/wiki/Nuclear_transmutation neutron facility:http://en.wikipedia.org/wiki/Neutron_facilities quarks:http://en.wikipedia.org/wiki/Quark cloud chamber:http://en.wikipedia.org/wiki/Cloud_chamber magnetic fields:http://en.wikipedia.org/wiki/Magnetic_field gamma rays:http://en.wikipedia.org/wiki/Gamma_ray thorium cycle:http://en.wikipedia.org/wiki/Thorium_cycle nucleons:http://en.wikipedia.org/wiki/Nucleon spallation:http://en.wikipedia.org/wiki/Spallation knocking them loose from nuclei:http://en.wikipedia.org/wiki/Spallation#Nuclear_spallation nuclear weapons:http://en.wikipedia.org/wiki/Nuclear_weapon standard deviations:http://en.wikipedia.org/wiki/Standard_deviation Cross sections:http://en.wikipedia.org/wiki/Cross_section_(physics) cell:http://en.wikipedia.org/wiki/Cell_(biology) mean lifetime:http://en.wikipedia.org/wiki/Mean_lifetime unsolved puzzles in particle physics:http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics#High_energy_physics neutrino:http://en.wikipedia.org/wiki/Neutrino neutron probe:http://en.wikipedia.org/wiki/Neutron_probe speed of light:http://en.wikipedia.org/wiki/Speed_of_light transient:http://en.wikipedia.org/wiki/Transient_state_(chemical_engineering) up quark:http://en.wikipedia.org/wiki/Up_quark paraffin:http://en.wikipedia.org/wiki/Paraffin_wax USSR:http://en.wikipedia.org/wiki/USSR unstable:http://en.wikipedia.org/wiki/Unstable_isotope graphite:http://en.wikipedia.org/wiki/Graphite heavy nuclei:http://en.wikipedia.org/wiki/Actinides Boltzmann distributed:http://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_distribution nuclear fuels:http://en.wikipedia.org/wiki/Nuclear_fuel W boson:http://en.wikipedia.org/wiki/W_boson fissionable:http://en.wikipedia.org/wiki/Fissionable plutonium-239:http://en.wikipedia.org/wiki/Plutonium-239 Cosmic radiation:http://en.wikipedia.org/wiki/Cosmic_ray neutron radiation:http://en.wikipedia.org/wiki/Neutron_radiation moderated:http://en.wikipedia.org/wiki/Neutron_moderator research reactors:http://en.wikipedia.org/wiki/Research_reactor antiparticle:http://en.wikipedia.org/wiki/Antiparticle citation needed:http://en.wikipedia.org/wiki/Wikipedia:Citation_needed proton:http://en.wikipedia.org/wiki/Proton James Chadwick:http://en.wikipedia.org/wiki/James_Chadwick antielectron:http://en.wikipedia.org/wiki/Antielectron magnetic:http://en.wikipedia.org/wiki/Magnet moderate:http://en.wikipedia.org/wiki/Neutron_moderator nuclear chain reaction:http://en.wikipedia.org/wiki/Nuclear_chain_reaction MeV:http://en.wikipedia.org/wiki/MeV fusion reaction:http://en.wikipedia.org/wiki/D-T_fusion Standard Model of particle physics:http://en.wikipedia.org/wiki/Standard_Model Standard Model:http://en.wikipedia.org/wiki/Standard_Model antimony-124:http://en.wikipedia.org/wiki/Antimony-124 cross sections:http://en.wikipedia.org/wiki/Cross_section_(physics) be captured without causing fission or spallation:http://en.wikipedia.org/wiki/Neutron_capture subatomic:http://en.wikipedia.org/wiki/Subatomic_particle actinide:http://en.wikipedia.org/wiki/Actinide research reactor:http://en.wikipedia.org/wiki/Research_reactor Pauli exclusion principle:http://en.wikipedia.org/wiki/Pauli_exclusion_principle dineutron:http://en.wikipedia.org/wiki/Dineutron radioactive decay:http://en.wikipedia.org/wiki/Radioactive_decay deuterium:http://en.wikipedia.org/wiki/Deuterium atoms:http://en.wikipedia.org/wiki/Atom electron:http://en.wikipedia.org/wiki/Electron Ernest Rutherford:http://en.wikipedia.org/wiki/Ernest_Rutherford quantum mechanics:http://en.wikipedia.org/wiki/Quantum_mechanics Frédéric Joliot:http://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Joliot chain reaction:http://en.wikipedia.org/wiki/Chain_reaction joules:http://en.wikipedia.org/wiki/Joule neutronium:http://en.wikipedia.org/wiki/Neutronium Walther Bothe:http://en.wikipedia.org/wiki/Walther_Bothe boron:http://en.wikipedia.org/wiki/Boron hydrogen:http://en.wikipedia.org/wiki/Hydrogen University of Cambridge:http://en.wikipedia.org/wiki/University_of_Cambridge charged:http://en.wikipedia.org/wiki/Electric_charge Dmitri Ivanenko:http://en.wikipedia.org/wiki/Dmitri_Ivanenko alpha decay:http://en.wikipedia.org/wiki/Alpha_decay alpha particle:http://en.wikipedia.org/wiki/Alpha_particle carbon-14:http://en.wikipedia.org/wiki/Carbon-14 annihilate:http://en.wikipedia.org/wiki/Annihilation elastic scattering:http://en.wikipedia.org/wiki/Elastic_scattering Cold, thermal and hot:http://en.wikipedia.org/wiki/Neutron_temperature boron capture therapy:http://en.wikipedia.org/wiki/Neutron_capture_therapy_of_cancer free neutron:http://en.wikipedia.org/wiki/Free_neutron thermonuclear weapons:http://en.wikipedia.org/wiki/Thermonuclear_weapon beta decay:http://en.wikipedia.org/wiki/Beta_decay helium:http://en.wikipedia.org/wiki/Helium helium-3:http://en.wikipedia.org/wiki/Helium-3 Nuclear reaction:http://en.wikipedia.org/wiki/Nuclear_reaction bore holes:http://en.wikipedia.org/wiki/Bore_hole capture:http://en.wikipedia.org/wiki/Neutron_capture neutron-proton ratio:http://en.wikipedia.org/wiki/Neutron-proton_ratio reflection:http://en.wikipedia.org/wiki/Neutron_reflector fast breeder:http://en.wikipedia.org/wiki/Fast_breeder Latin:http://en.wikipedia.org/wiki/Latin atomic nuclei:http://en.wikipedia.org/wiki/Atomic_nucleus lithium:http://en.wikipedia.org/wiki/Lithium neutron activation:http://en.wikipedia.org/wiki/Neutron_activation boron-10:http://en.wikipedia.org/wiki/Boron-10 resonance:http://en.wikipedia.org/wiki/Resonance neutron number:http://en.wikipedia.org/wiki/Neutron_number neutron stars:http://en.wikipedia.org/wiki/Neutron_star magnetic mirrors:http://en.wikipedia.org/wiki/Magnetic_mirror electromagnetic repulsion:http://en.wikipedia.org/wiki/Electromagnetic_interaction Chicago Pile-1:http://en.wikipedia.org/wiki/Chicago_Pile-1 decay energy:http://en.wikipedia.org/wiki/Decay_energy gamma ray:http://en.wikipedia.org/wiki/Gamma_ray lithium-7:http://en.wikipedia.org/wiki/Lithium-7 chemical element:http://en.wikipedia.org/wiki/Chemical_element particle accelerators:http://en.wikipedia.org/wiki/Particle_accelerator fission:http://en.wikipedia.org/wiki/Nuclear_fission nuclear interaction:http://en.wikipedia.org/wiki/Strong_force atom:http://en.wikipedia.org/wiki/Atom electric:http://en.wikipedia.org/wiki/Electric_field mass:http://en.wikipedia.org/wiki/Mass moderation:http://en.wikipedia.org/wiki/Neutron_moderator change:http://en.wikipedia.org/wiki/Flavour_changing_processes hyperfine structure:http://en.wikipedia.org/wiki/Hyperfine_structure nuclear reactions:http://en.wikipedia.org/wiki/Nuclear_reaction prompt gamma neutron activation analysis:http://en.wikipedia.org/wiki/Prompt_gamma_neutron_activation_analysis kinetic energy:http://en.wikipedia.org/wiki/Kinetic_energy Greek:http://en.wikipedia.org/wiki/Greek_language eV:http://en.wikipedia.org/wiki/Electronvolt light water:http://en.wikipedia.org/wiki/Light_water_reactor inverse beta decay:http://en.wikipedia.org/wiki/Inverse_beta_decay Maxwell–Boltzmann distribution:http://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_distribution uranium-233:http://en.wikipedia.org/wiki/Uranium-233 beryllium:http://en.wikipedia.org/wiki/Beryllium radioisotope:http://en.wikipedia.org/wiki/Radioisotope nuclear reactors:http://en.wikipedia.org/wiki/Nuclear_reactor cause more fission:http://en.wikipedia.org/wiki/Fusion_boosting thermal reactor:http://en.wikipedia.org/wiki/Thermal_reactor protons:http://en.wikipedia.org/wiki/Proton ionization:http://en.wikipedia.org/wiki/Ionization half-life:http://en.wikipedia.org/wiki/Half-life Bruce Cork:http://en.wikipedia.org/wiki/Bruce_Cork neutron activation analysis:http://en.wikipedia.org/wiki/Neutron_activation_analysis fast neutron reactor:http://en.wikipedia.org/wiki/Fast_neutron_reactor antiproton:http://en.wikipedia.org/wiki/Antiproton gamma decay:http://en.wikipedia.org/wiki/Gamma_decay beta particles:http://en.wikipedia.org/wiki/Beta_particle lead:http://en.wikipedia.org/wiki/Lead CANDU:http://en.wikipedia.org/wiki/CANDU tritium:http://en.wikipedia.org/wiki/Tritium nucleus:http://en.wikipedia.org/wiki/Atomic_nucleus depleted uranium:http://en.wikipedia.org/wiki/Depleted_uranium isotope:http://en.wikipedia.org/wiki/Isotope neutron generators:http://en.wikipedia.org/wiki/Neutron_generator cross section:http://en.wikipedia.org/wiki/Cross_section_(physics) radioactivity:http://en.wikipedia.org/wiki/Radioactivity fissioning:http://en.wikipedia.org/wiki/Nuclear_fission hadron:http://en.wikipedia.org/wiki/Hadron]
+infocard 
+Neutron
+
+
+The quark structure of the neutron. (The color assignment of individual quarks is not important, only that all three colors are present.)
+
+
+
+Classification
+Baryon
+
+
+Composition
+1 up quark, 2 down quarks
+
+
+Statistics
+Fermionic
+
+
+Interactions
+Gravity, Weak, Strong, Electromagnetic
+
+
+Symbol
+n, n0, N0
+
+
+Antiparticle
+Antineutron
+
+
+Theorized
+Ernest Rutherford[1][2] (1920)
+
+
+Discovered
+James Chadwick[1] (1932)
+
+
+Mass
+1.674927351(74)×10−27 kg[3]
+939.565378(21) MeV/c2[3]
+1.00866491600(43) u[3]
+
+
+Mean lifetime
+881.5(15) s (free)
+
+
+Electric charge
+0 e
+0 C
+
+
+Electric dipole moment
+< 2.9×10−26 e·cm
+
+
+Electric polarizability
+1.16(15)×10−3 fm3
+
+
+Magnetic moment
+−0.96623647(23)×10−26 J·T−1[3]
+−1.04187563(25)×10−3 μB[3]
+−1.91304272(45) μN[3]
+
+
+Magnetic polarizability
+3.7(20)×10−4 fm3
+
+
+Spin
+1⁄2
+
+
+Isospin
+1⁄2
+
+
+Parity
++1
+
+
+Condensed
+I(JP) = 1⁄2(1⁄2+)
+
+
+map[used:7 weighting:5 and:7 engines:2 intended:3 others.:3 simplest:1 inline:4 or:3 can:2 :17 references,:4 2012):4 sophisticated:1 term:3 document:6 reflect:3 It:3 central:2 includes:4 Please:4 is:16 words:3 scoring:2 number:3 times:3 control:3 common:3 ranking:4 (Redirected:6 introducing:4 query:1 tool:2 functions:2 each:1 classification.:2 One:1 model.:1 its:4 statistic:3 tf-idf:3 which:3 including:2 information:3 helps:3 the:29 Tf-idf):6 has:4 (July:4 fields:2 a:28 tf–idf,:3 text:5 offset:3 corpus,:3 to:16 frequency,:3 numerical:3 that:6 collection:3 retrieval:3 given:2 subject:2 many:1 encyclopedia:7 this:5 successfully:2 as:5 term;:1 precise:4 The:3 scheme:2 user:2 from:6 it:4 often:5 increases:3 are:6 variants:1 word:9 generally:3 Variations:2 document's:2 filtering:2 search:2 relevance:2 Wikipedia,:7 more:8 frequency–inverse:3 value:3 frequency:3 list:4 unclear:4 because:4 fact:3 query.:2 insufficient:4 help:4 how:3 factor:3 From:7 remain:4 simple:1 short:3 than:3 some:3 be:2 stop-words:2 various:2 of:14 sources:4 by:10 tf–idf:13 This:4 article:8 corpus.[1]:8:3 computed:1 summarization:2 summing:1 free:7 citations.:8 improve:4 important:3 appears:3 document,:3 but:7 for:9 in:16 mining.:3 proportionally:3]
+http://en.wikipedia.org/wiki/
+Dmitri Ivanenko 
+
+Dmitri Ivanenko
+
+
+Born
+(1904-07-29)29 July 1904
+Poltava, Russian Empire
+
+
+Died
+December 30, 1994(1994-12-30) (aged 90)
+Moscow, Russia
+
+
+Citizenship
+USSR
+Russia
+
+
+Nationality
+Russia
+
+
+Fields
+Theoretical physics
+Nuclear physics
+Field theory
+Gravitation
+
+
+Institutions
+Moscow State University
+
+
+Alma mater
+Leningrad State University
+
+
+Doctoral students
+Arseny Sokolov
+Gennadi Sardanashvily
+
+
+antiparticle 
+gamma decay 
+diproton 
+heavy water 
+
+Heavy water
+
+
+
+
+
+
+
+IUPAC name
+
+[2H]2-Water[citation needed]
+
+
+
+
+
+
+
+Other names
+
+
+
+
+Deuterium monoxide[citation needed]
+Deuterium oxide[citation needed]
+Water-d2[citation needed]
+
+
+
+
+
+
+
+Identifiers
+
+
+CAS number
+7789-20-0 Y
+
+
+PubChem
+24602
+
+
+ChemSpider
+23004 Y
+
+
+UNII
+J65BV539M3 Y
+
+
+EC number
+232-148-9
+
+
+KEGG
+D03703 Y
+
+
+MeSH
+Deuterium+Oxide
+
+
+ChEBI
+CHEBI:41981 Y
+
+
+RTECS number
+ZC0230000
+
+
+Gmelin Reference
+97
+
+
+Jmol-3D images
+Image 1
+
+
+
+
+
+SMILES
+
+
+
+[2H]O[2H]
+
+
+
+
+
+
+
+
+
+
+
+
+InChI
+
+
+
+InChI=1S/H2O/h1H2/i/hD2 Y
+Key: XLYOFNOQVPJJNP-ZSJDYOACSA-N Y
+
+
+
+
+
+
+Properties
+
+
+Molecular formula
+D
+2O
+
+
+Molar mass
+20.0276 g mol−1
+
+
+Appearance
+Very pale blue, transparent liquid
+
+
+Odor
+Odorless
+
+
+Density
+1.107 g mL−1
+
+
+Melting point
+3.82 °C; 38.88 °F; 276.97 K
+
+
+Boiling point
+101.4 °C (214.5 °F; 374.5 K)
+
+
+Solubility in water
+Soluble
+
+
+log P
+−1.38
+
+
+Refractive index (nD)
+1.328
+
+
+Viscosity
+1.25 mPa s (at 20 °C)
+
+
+Dipole moment
+1.87 D
+
+
+Hazards
+
+
+NFPA 704
+
+
+
+
+
+
+
+
+
+
+
+0
+1
+1
+
+
+
+
+
+
+Except where noted otherwise, data are given for materials in their standard state (at 25 °C (77 °F), 100 kPa)
+
+
+ Y (verify) (what is: Y/N?)
+
+
+Infobox references
+
+
+
+
+
+
+nuclear proliferation 
+cell 
+
+Cell
+
+
+
+Onion (Allium) cells in different phases of the cell cycle
+
+
+
+
+The cells of eukaryotes (left) and prokaryotes (right)
+
+
+
+elastic scattering 
+nuclear weapon design 
+MeV 
+radioactivity 
+lead 
+
+NFPA 704
+fire diamond
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+3
+0
+
+
+
+
+
+
+Fire diamond for lead granules
+
+
+helium 
+Listen to this article (info/dl)
+
+
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+
+
+
+
+
+
+This audio file was created from a revision of the "Helium" article dated 2009-07-15, and does not reflect subsequent edits to the article. (Audio help)
+More spoken articles
+
+nuclide 
+gamma ray 
+electric 
+bore holes 
+helium-3 
+Standard Model of particle physics 
+Ernest Rutherford 
+
+The Right Honourable
+The Lord Rutherford of Nelson
+FRS OM
+
+
+
+Lord Rutherford of Nelson
+
+
+
+Born
+(1871-08-30)30 August 1871
+Brightwater, Tasman District, New Zealand
+
+
+Died
+19 October 1937(1937-10-19) (aged 66)
+Cambridge, England, UK
+
+
+Residence
+New Zealand, United Kingdom
+
+
+Citizenship
+New Zealand, United Kingdom
+
+
+Fields
+Physics and Chemistry
+
+
+Institutions
+McGill University
+University of Manchester
+
+
+Alma mater
+University of Canterbury
+University of Cambridge
+
+
+Academic advisors
+Alexander Bickerton
+J. J. Thomson
+
+
+Doctoral students
+Nazir Ahmed
+Norman Alexander
+Edward Victor Appleton
+Robert William Boyle
+Rafi Muhammad Chaudhry
+Alexander MacAulay
+Cecil Powell
+Henry DeWolf Smyth
+Ernest Walton
+C. E. Wynn-Williams
+Yulii Borisovich Khariton
+
+
+Other notable students
+Edward Andrade
+Edward Victor Appleton
+Patrick Blackett
+Niels Bohr
+Bertram Boltwood
+Harriet Brooks
+Teddy Bullard
+James Chadwick
+John Cockcroft
+Charles Galton Darwin
+Charles Drummond Ellis
+Kazimierz Fajans
+Hans Geiger
+Otto Hahn
+Douglas Hartree
+Pyotr Kapitsa
+George Laurence
+Iven Mackay
+Ernest Marsden
+Mark Oliphant
+Thomas Royds
+Frederick Soddy
+
+
+Known for
+Father of nuclear physics
+Rutherford model
+Rutherford scattering
+Rutherford backscattering spectroscopy
+Discovery of proton
+Rutherford (unit)
+Coining the term 'artificial disintegration'
+
+
+Influenced
+Henry Moseley
+Hans Geiger
+Albert Beaumont Wood
+
+
+Notable awards
+Rumford Medal (1904)
+Nobel Prize in Chemistry (1908)
+Elliott Cresson Medal (1910)
+Matteucci Medal (1913)
+Copley Medal (1922)
+Franklin Medal (1924)
+Albert Medal (1928)
+Faraday Medal (1930)
+
+
+Signature
+
+
+
+atomic nuclei 
+paraffin 
+hyperfine structure 
+decay energy 
+irradiation 
+CPT-symmetry 
+nuclear fuels 
+proton 
+Proton
+
+
+The quark structure of the proton. (The color assignment of individual quarks is not important, only that all three colors are present.)
+
+
+
+Classification
+Baryon
+
+
+Composition
+2 up quarks, 1 down quark
+
+
+Statistics
+Fermionic
+
+
+Interactions
+Gravity, Electromagnetic, Weak, Strong
+
+
+Symbol
+p, p+, N+
+
+
+Antiparticle
+Antiproton
+
+
+Theorized
+William Prout (1815)
+
+
+Discovered
+Ernest Rutherford (1917–1919, named by him, 1920)
+
+
+Mass
+
+1.672621777(74)×10−27 kg[1]
+938.272046(21) MeV/c2[1]
+1.007276466812(90) u[1]
+
+
+Mean lifetime
+>2.1×1029 years (stable)
+
+
+Electric charge
++1 e
+1.602176565(35)×10−19 C[1]
+
+
+Charge radius
+0.8775(51) fm[1]
+
+
+Electric dipole moment
+<5.4×10−24 e·cm
+
+
+Electric polarizability
+1.20(6)×10−3 fm3
+
+
+Magnetic moment
+
+1.410606743(33)×10−26 J·T−1[1]
+1.521032210(12)×10−3 μB[1]
+2.792847356(23) μN[1]
+
+
+Magnetic polarizability
+1.9(5)×10−4 fm3
+
+
+Spin
+1⁄2
+
+
+Isospin
+1⁄2
+
+
+Parity
++1
+
+
+Condensed
+I(JP) = 1⁄2(1⁄2+)
+
+
+Cosmic radiation 
+Ultracold neutrons 
+hydrogen 
+Listen to this article (2 parts) ·  (info)
+Part 1 • Part 2
+
+
+
+This audio file was created from a revision of the "Hydrogen" article dated 2006-10-28, and does not reflect subsequent edits to the article. (Audio help)
+More spoken articles
+
+electromagnetic repulsion 
+
+Library resources about
+Electromagnetism
+
+
+
+
+
+Resources in your library
+
+
+
+
+be captured without causing fission or spallation 
+fertile 
+neutron sources 
+ln 
+
+Natural Logarithm
+
+
+Representation
+
+
+
+Inverse
+
+
+
+Derivative
+
+
+
+Indefinite Integral
+
+
+
+Nuclear fission reactors 
+neutron facility 
+eV 
+kinetic energy 
+
+Kinetic energy
+
+
+
+The cars of a roller coaster reach their maximum kinetic energy when at the bottom of their path. When they start rising, the kinetic energy begins to be converted to gravitational potential energy. The sum of kinetic and potential energy in the system remains constant, ignoring losses to friction.
+
+
+
+Common symbols
+KE, Ek, or T
+
+
+SI unit
+joule (J)
+
+
+Derivations from
+other quantities
+
+Ek = ½mv2
+Ek = Et+Er
+
+
+Viktor Ambartsumian 
+
+Victor Ambartsumian
+
+
+
+
+
+Born
+(1908-09-18)September 18, 1908
+Tiflis, Russian Empire
+(modern-day Tbilisi, Georgia)
+
+
+Died
+August 12, 1996(1996-08-12) (aged 87)
+Byurakan, Armenia
+
+
+Nationality
+Soviet, Armenian
+
+
+Fields
+theoretical astrophysics
+
+
+Notable awards
+Lomonosov Gold Medal (1971)
+
+
+research reactor 
+knocking them loose from nuclei 
+neutron-proton ratio 
+californium 
+
+Californium
+
+
+98Cf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dy
+↑
+Cf
+↓
+(Upn)
+
+
+berkelium ← californium → einsteinium
+
+
+
+
+
+
+
+
+Californium in the periodic table
+
+
+Appearance
+
+
+silvery
+
+
+
+General properties
+
+
+Name, symbol, number
+californium, Cf, 98
+
+
+Pronunciation
+/ˌkælɨˈfɔrniəm/
+KAL-i-FOR-nee-əm
+
+
+Element category
+actinide
+
+
+Group, period, block
+n/a, 7, f
+
+
+Standard atomic weight
+(251)[1]
+
+
+Electron configuration
+[Rn] 5f10 7s2 [2]
+2, 8, 18, 32, 28, 8, 2
+
+
+Physical properties
+
+
+Phase
+solid
+
+
+Density (near r.t.)
+15.1[1] g·cm−3
+
+
+Melting point
+1173 K, 900[1] °C, 1652 °F
+
+
+Boiling point
+(estimation) 1743[3] K, 1470 °C, 2678 °F
+
+
+Atomic properties
+
+
+Oxidation states
+2, 3, 4[4]
+
+
+Electronegativity
+1.3[5] (Pauling scale)
+
+
+Ionization energies
+1st: 608[6] kJ·mol−1
+
+
+Miscellanea
+
+
+Crystal structure
+simple hexagonal
+
+
+
+
+Mohs hardness
+3–4[7]
+
+
+CAS registry number
+7440-71-3[1]
+
+
+History
+
+
+Naming
+after California, where it was discovered
+
+
+Discovery
+Lawrence Berkeley National Laboratory (1950)
+
+
+Most stable isotopes
+
+
+Main article: Isotopes of californium
+
+
+
+
+
+iso
+NA
+half-life
+DM
+DE (MeV)
+DP
+
+
+248Cf
+syn
+333.5 d
+α (100%)
+6.369
+244Cm
+
+
+SF (2.9×10−3%)
+0.0029
+–
+
+
+249Cf
+trace
+351 y
+α (100%)
+6.295
+245Cm
+
+
+SF (5.0×10−7%)
+4.4×10−7
+–
+
+
+250Cf
+trace
+13.08 y
+α (99.92%)
+6.129
+246Cm
+
+
+SF (0.08%)
+0.077
+–
+
+
+251Cf
+trace
+898 y
+α
+6.172
+247Cm
+
+
+252Cf
+trace
+2.645 y
+α (96.91%)
+6.217
+248Cm
+
+
+SF (3.09%)
+–
+–
+
+
+253Cf
+trace
+17.81 d
+β− (99.69%)
+0.29
+253Es
+
+
+α (0.31%)
+6.126
+249Cm
+
+
+254Cf
+syn
+60.5 d
+SF (99.69%)
+–
+–
+
+
+α (0.31%)
+5.930
+250Cm
+
+
+Isotope references:[8][9]
+
+
+
+
+
+
+
+
+view
+talk
+edit
+
+
+· references
+
+
+graphite 
+
+Graphite
+
+
+
+Graphite specimen
+
+
+
+General
+
+
+Category
+Native element mineral
+
+
+Formula
+(repeating unit)
+C
+
+
+Strunz classification
+01.CB.05a
+
+
+Crystal symmetry
+Hexagonal dihexagonal dipyramidal
+H-M symbol: (6/m 2/m 2/m)
+Space group: P 63/mmc
+
+
+Unit cell
+a = 2.461 Å, c = 6.708 Å; Z = 4
+
+
+Identification
+
+
+Color
+Iron-black to steel-gray; deep blue in transmitted light
+
+
+Crystal habit
+Tabular, six-sided foliated masses, granular to compacted masses
+
+
+Crystal system
+Hexagonal
+
+
+Twinning
+Present
+
+
+Cleavage
+Basal – perfect on {0001}
+
+
+Fracture
+Flaky, otherwise rough when not on cleavage
+
+
+Tenacity
+Flexible non-elastic, sectile
+
+
+Mohs scale hardness
+1–2
+
+
+Luster
+Metallic, earthy
+
+
+Streak
+Black
+
+
+Diaphaneity
+Opaque, transparent only in extremely thin ﬂakes
+
+
+Density
+2.09–2.23 g/cm3
+
+
+Optical properties
+Uniaxial (–)
+
+
+Pleochroism
+Strong
+
+
+Solubility
+Molten Ni
+
+
+Other characteristics
+strongly anisotropic, electric conductor, greasy feel, readily marks
+
+
+References
+[1][2][3]
+
+
+resonance 
+uranium-233 
+nuclear weapons 
+Listen to this article (info/dl)
+
+
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+
+
+
+
+
+
+This audio file was created from a revision of the "Nuclear weapon" article dated 2005-12-01, and does not reflect subsequent edits to the article. (Audio help)
+More spoken articles
+
+thorium cycle 
+research reactors 
+Standard Model 
+magnetic mirrors 
+neutron scattering 
+neutron radiation 
+reactor grade plutonium 
+fissionable 
+change 
+
+Flavour in particle physics
+
+
+Flavour quantum numbers:
+
+Isospin: I or I3
+Charm: C
+Strangeness: S
+Topness: T
+Bottomness: B′
+
+
+Related quantum numbers:
+
+Baryon number: B
+Lepton number: L
+Weak isospin: T or T3
+Electric charge: Q
+X-charge: X
+
+
+Combinations:
+
+Hypercharge: Y
+
+Y = (B + S + C + B′ + T)
+Y = 2 (Q − I3)
+
+
+Weak hypercharge: YW
+
+YW = 2 (Q − T3)
+X + 2YW = 5 (B − L)
+
+
+
+
+
+Flavour mixing
+
+
+CKM matrix
+PMNS matrix
+Flavour complementarity
+
+
+
+This box:
+
+view
+talk
+edit
+
+
+
+
+
+
+beryllium 
+
+Beryllium
+
+
+4Be
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+↑
+Be
+↓
+Mg
+
+
+lithium ← beryllium → boron
+
+
+
+
+
+
+
+
+Beryllium in the periodic table
+
+
+Appearance
+
+
+white-gray metallic
+
+
+
+General properties
+
+
+Name, symbol, number
+beryllium, Be, 4
+
+
+Pronunciation
+/bəˈrɪliəm/ bə-RIL-ee-əm
+
+
+Element category
+alkaline earth metal
+
+
+Group, period, block
+2 (alkaline earth metals), 2, s
+
+
+Standard atomic weight
+9.0121831(5)
+
+
+Electron configuration
+[He] 2s2
+2, 2
+
+
+Physical properties
+
+
+Phase
+solid
+
+
+Density (near r.t.)
+1.85 g·cm−3
+
+
+Liquid density at m.p.
+1.690 g·cm−3
+
+
+Melting point
+1560 K, 1287 °C, 2349 °F
+
+
+Boiling point
+3243 K, 2970 °C, 5338 °F
+
+
+Critical point
+(extrapolated)
+5205 K, MPa
+
+
+Heat of fusion
+12.2 kJ·mol−1
+
+
+Heat of vaporization
+292 kJ·mol−1
+
+
+Molar heat capacity
+16.443 J·mol−1·K−1
+
+
+Vapor pressure
+
+
+
+
+
+P (Pa)
+1
+10
+100
+1 k
+10 k
+100 k
+
+
+at T (K)
+1462
+1608
+1791
+2023
+2327
+2742
+
+
+
+
+
+Atomic properties
+
+
+Oxidation states
+2, 1[1]
+(amphoteric oxide)
+
+
+Electronegativity
+1.57 (Pauling scale)
+
+
+Ionization energies
+(more)
+1st: 899.5 kJ·mol−1
+
+
+2nd: 1757.1 kJ·mol−1
+
+
+3rd: 14848.7 kJ·mol−1
+
+
+Atomic radius
+112 pm
+
+
+Covalent radius
+96±3 pm
+
+
+Van der Waals radius
+153 pm
+
+
+Miscellanea
+
+
+Crystal structure
+hexagonal close-packed
+
+
+
+
+Magnetic ordering
+diamagnetic
+
+
+Electrical resistivity
+(20 °C) 36 nΩ·m
+
+
+Thermal conductivity
+200 W·m−1·K−1
+
+
+Thermal expansion
+(25 °C) 11.3 µm·m−1·K−1
+
+
+Speed of sound (thin rod)
+(r.t.) 12890[2] m·s−1
+
+
+Young's modulus
+287 GPa
+
+
+Shear modulus
+132 GPa
+
+
+Bulk modulus
+130 GPa
+
+
+Poisson ratio
+0.032
+
+
+Mohs hardness
+5.5
+
+
+Vickers hardness
+1670 MPa
+
+
+Brinell hardness
+600 MPa
+
+
+CAS registry number
+7440-41-7
+
+
+History
+
+
+Discovery
+Louis Nicolas Vauquelin (1797)
+
+
+First isolation
+Friedrich Wöhler & Antoine Bussy (1828)
+
+
+Most stable isotopes
+
+
+Main article: Isotopes of beryllium
+
+
+
+
+
+iso
+NA
+half-life
+DM
+DE (MeV)
+DP
+
+
+7Be
+trace
+53.12 d
+ε
+0.862
+7Li
+
+
+γ
+0.477
+-
+
+
+9Be
+100%
+9Be is stable with 5 neutrons
+
+
+10Be
+trace
+1.36×106 y
+β−
+0.556
+10B
+
+
+
+
+
+
+
+
+view
+talk
+edit
+
+
+· references
+
+
+Nuclear reaction 
+neutron transport 
+cloud chamber 
+nuclear fusion reactors 
+capture 
+moderated 
+nuclear force 
+e 
+
+Elementary charge   (as a unit of charge)
+
+
+Unit system
+Atomic units
+
+
+Unit of
+electric charge
+
+
+Symbol
+e or q 
+
+
+Unit conversions
+
+
+1 e or q in ...
+... is equal to ...
+
+
+   coulomb
+   1.602176565(35)×10−19[1]
+
+
+   statcoulomb
+   4.80320425(10)×10−10
+
+
+   √(MeV⋅fm)
+   √1.4399764
+
+
+inverse beta decay 
+J 
+
+
+
+SI multiples for joule (J)
+
+Submultiples
+
+Multiples
+
+
+Value
+Symbol
+Name
+Value
+Symbol
+Name
+
+
+10−1 J
+dJ
+decijoule
+101 J
+daJ
+decajoule
+
+
+10−2 J
+cJ
+centijoule
+102 J
+hJ
+hectojoule
+
+
+10−3 J
+mJ
+millijoule
+103 J
+kJ
+kilojoule
+
+
+10−6 J
+µJ
+microjoule
+106 J
+MJ
+megajoule
+
+
+10−9 J
+nJ
+nanojoule
+109 J
+GJ
+gigajoule
+
+
+10−12 J
+pJ
+picojoule
+1012 J
+TJ
+terajoule
+
+
+10−15 J
+fJ
+femtojoule
+1015 J
+PJ
+petajoule
+
+
+10−18 J
+aJ
+attojoule
+1018 J
+EJ
+exajoule
+
+
+10−21 J
+zJ
+zeptojoule
+1021 J
+ZJ
+zettajoule
+
+
+10−24 J
+yJ
+yoctojoule
+1024 J
+YJ
+yottajoule
+
+
+Common multiples are in bold face
+
+
+
+
+
+Cross sections 
+Chicago Pile-1 
+
+Chicago Pile-1 (CP-1)
+
+
+Reactor concept
+Research reactor (uranium/graphite)
+
+
+Designed and build by
+Metallurgical Laboratory
+
+
+Operational
+1942 to 1943
+
+
+Status
+Dismantled
+
+
+Main parameters of the reactor core
+
+
+Fuel (fissile material)
+235U
+
+
+Fuel state
+Solid (pellets)
+
+
+Neutron energy spectrum
+Information missing
+
+
+Primary control method
+Control rods
+
+
+Primary moderator
+Graphite (bricks)
+
+
+Primary coolant
+None
+
+
+Reactor usage
+
+
+Primary use
+Experimental
+
+
+Remarks
+The Chicago Pile-1 (CP-1) was the world's first artificial nuclear reactor.
+
+
+neutron emission 
+transmutation 
+Frédéric Joliot 
+
+Frédéric Joliot-Curie
+
+
+
+
+
+Born
+Jean Frédéric Joliot
+(1900-03-19)19 March 1900
+Paris, France
+
+
+Died
+14 August 1958(1958-08-14) (aged 58)
+Paris, France
+
+
+Nationality
+France
+
+
+Fields
+Physics
+
+
+Alma mater
+School of Chemistry and Physics of the city of Paris
+
+
+Known for
+Atomic nuclei
+
+
+Notable awards
+Nobel Prize for Chemistry (1935)
+Hughes Medal (1947)
+
+
+Spouse
+Irène Joliot-Curie
+
+
+annihilate 
+ionization 
+Walther Bothe 
+
+Walther Bothe
+
+
+
+Walther Bothe
+
+
+
+Born
+(1891-01-08)8 January 1891
+Oranienburg, German Empire
+
+
+Died
+8 February 1957(1957-02-08) (aged 66)
+Heidelberg, West Germany
+
+
+Nationality
+Germany
+
+
+Fields
+Physics, mathematics, chemistry
+
+
+Institutions
+University of Berlin
+University of Giessen
+University of Heidelberg
+Max Planck Institute for Medical Research
+
+
+Alma mater
+University of Berlin
+
+
+Doctoral advisor
+Max Planck
+
+
+Doctoral students
+Hans Ritter von Baeyer
+
+
+Known for
+Coincidence circuit
+
+
+Notable awards
+Nobel Prize for Physics (1954)
+Max Planck Medal (1953)
+
+
+reflection 
+Faraday effect 
+unsolved puzzles in particle physics 
+nuclear interaction 
+deuterium 
+Thermal neutrons 
+beta particles 
+lithium 
+
+NFPA 704
+fire diamond
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+2
+W
+
+
+
+
+
+
+Fire diamond hazard sign for lithium metal
+
+
+beyond the Standard Model 
+tritium 
+cause more fission 
+spallation sources 
+gamma radiation 
+spontaneous fission 
+fertile materials 
+light water 
+neutron generators 
+fusion 
+boron capture therapy 
+nuclear reactions 
+neutron activation 
+fast neutron reactor 
+neutron stars 
+fissile 
+fission reactors 
+thermal reactor 
+electron antineutrino 
+Electron neutrino
+
+Composition
+Elementary particle
+
+
+Statistics
+Fermionic
+
+
+Generation
+First
+
+
+Interactions
+Weak, Gravity
+
+
+Symbol
+ν
+e
+
+
+Antiparticle
+Electron antineutrino (ν
+e)
+
+
+Theorized
+Wolfgang Pauli (1930)
+
+
+Discovered
+Clyde Cowan, Frederick Reines (1956)
+
+
+Mass
+Small but non-zero. See neutrino mass.
+
+
+Electric charge
+0 e
+
+
+Color charge
+No
+
+
+Spin
+1⁄2
+
+
+Weak isospin
+1⁄2
+
+
+Weak hypercharge
+-1
+Note: the above values apply only to the standard left-handed neutrino. For right-handed neutrinos, see sterile neutrino.
+
+
+neutron capture 
+speed of light 
+History of measurements of c (in km/s)
+
+1675
+Rømer and Huygens, moons of Jupiter
+220000[84][105]
+
+
+1729
+James Bradley, aberration of light
+301000[90]
+
+
+1849
+Hippolyte Fizeau, toothed wheel
+315000[90]
+
+
+1862
+Léon Foucault, rotating mirror
+298000±500[90]
+
+
+1907
+Rosa and Dorsey, EM constants
+299710±30[95][96]
+
+
+1926
+Albert A. Michelson, rotating mirror
+299796±4[106]
+
+
+1950
+Essen and Gordon-Smith, cavity resonator
+299792.5±3.0[98]
+
+
+1958
+K.D. Froome, radio interferometry
+299792.50±0.10[102]
+
+
+1972
+Evenson et al., laser interferometry
+299792.4562±0.0011[104]
+
+
+1983
+17th CGPM, definition of the metre
+299792.458 (exact)[80]
+
+
+tokamak 
+flavour 
+
+Flavour in particle physics
+
+
+Flavour quantum numbers:
+
+Isospin: I or I3
+Charm: C
+Strangeness: S
+Topness: T
+Bottomness: B′
+
+
+Related quantum numbers:
+
+Baryon number: B
+Lepton number: L
+Weak isospin: T or T3
+Electric charge: Q
+X-charge: X
+
+
+Combinations:
+
+Hypercharge: Y
+
+Y = (B + S + C + B′ + T)
+Y = 2 (Q − I3)
+
+
+Weak hypercharge: YW
+
+YW = 2 (Q − T3)
+X + 2YW = 5 (B − L)
+
+
+
+
+
+Flavour mixing
+
+
+CKM matrix
+PMNS matrix
+Flavour complementarity
+
+
+
+This box:
+
+view
+talk
+edit
+
+
+
+
+
+
+USSR 
+
+Union of Soviet Socialist Republics
+Other names
+Союз Советских Социалистических Республик
+Soyuz Sovetskikh Sotsialisticheskikh Respublik
+
+
+
+
+
+← 
+ 
+← 
+ 
+← 
+ 
+← 
+1922–1991[1]
+↓
+
+
+
+
+
+
+
+
+
+
+
+
+Flag
+State Emblem
+
+
+
+
+
+Motto
+Пролетарии всех стран, соединяйтесь!
+(Translit.: Proletarii vsekh stran, soyedinyaytes'!)
+English: Workers of the world, unite!
+
+
+Anthem
+"The Internationale"
+(1922–1944)
+
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+
+
+"State Anthem of the USSR"
+(1944–1991)
+
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+
+
+
+
+
+
+
+
+The Soviet Union after World War II
+
+
+
+Capital
+Moscow
+
+
+Languages
+Russian, many others
+
+
+Religion
+None (state atheism)[2] (see text)
+
+
+Government
+Union,
+Marxist–Leninist single-party state
+
+
+General Secretary
+
+
+
+ - 
+1922-1952
+Joseph Stalin (first)
+
+
+ - 
+1990-1991
+Vladimir Ivashko (last)
+
+
+Head of State
+
+
+
+ - 
+1922–1938
+Mikhail Kalinin (first)
+
+
+ - 
+1988–1991
+Mikhail Gorbachev (last)
+
+
+Head of Government
+
+
+
+ - 
+1922–1924
+Vladimir Lenin (first)
+
+
+ - 
+1991
+Ivan Silayev (last)
+
+
+Legislature
+Supreme Soviet
+
+
+ - 
+Upper house
+Soviet of the Union
+
+
+ - 
+Lower house
+Soviet of Nationalities
+
+
+Historical era
+Interwar period / World War II / Cold War
+
+
+ - 
+Treaty of Creation
+30 December 1922
+
+
+ - 
+Union dissolved
+26 December 1991[1]
+
+
+Area
+
+
+ - 
+1991
+22,402,200 km² (8,649,538 sq mi)
+
+
+Population
+
+
+ - 
+1991 est.
+293,047,571 
+
+
+     Density
+13.1 /km²  (33.9 /sq mi)
+
+
+Currency
+Soviet ruble (руб) (SUR)
+
+
+Internet TLD
+.su1
+
+
+Calling code
++7
+
+
+
+
+
+
+
+Preceded by
+Succeeded by
+
+
+
+
+
+
+Russian Soviet Federative Socialist Republic
+
+
+
+Transcaucasian Soviet Federative Socialist Republic
+
+
+
+Ukrainian Soviet Socialist Republic
+
+
+
+Byelorussian Soviet Socialist Republic
+
+
+
+
+
+
+Armenia
+
+
+
+Azerbaijan
+
+
+
+Belarus
+
+
+
+Estonia
+
+
+
+Georgia
+
+
+
+Kazakhstan
+
+
+
+Kyrgyzstan
+
+
+
+Latvia
+
+
+
+Lithuania
+
+
+
+Moldova
+
+
+
+Russia
+
+
+
+Tajikistan
+
+
+
+Turkmenistan
+
+
+
+Ukraine
+
+
+
+Uzbekistan
+
+
+
+
+
+
+
+
+
+Notes
+
+^ Assigned on 19 September 1990, existing onwards.
+
+For details on the succession of states see below.
+
+
+
+down quarks 
+Down quark
+
+Composition
+Elementary particle
+
+
+Statistics
+Fermionic
+
+
+Generation
+First
+
+
+Interactions
+Strong, Weak, Electromagnetic force, Gravity
+
+
+Symbol
+d
+
+
+Antiparticle
+Down antiquark (d)
+
+
+Theorized
+Murray Gell-Mann (1964)
+George Zweig (1964)
+
+
+Discovered
+SLAC (1968)
+
+
+Mass
+4.8+0.5
+−0.3 MeV/c2[1]
+
+
+Decays into
+Stable or Up quark + Electron + Electron antineutrino
+
+
+Electric charge
+−1⁄3 e
+
+
+Color charge
+yes
+
+
+Spin
+1⁄2
+
+
+Weak isospin
+LH: −1⁄2, RH: 0
+
+
+Weak hypercharge
+LH: 1⁄3, RH: −2⁄3
+
+
+nucleus 
+Bruce Cork 
+nuclear reactors 
+fissioning 
+free neutron 
+Neutron
+
+
+The quark structure of the neutron. (The color assignment of individual quarks is not important, only that all three colors are present.)
+
+
+
+Classification
+Baryon
+
+
+Composition
+1 up quark, 2 down quarks
+
+
+Statistics
+Fermionic
+
+
+Interactions
+Gravity, Weak, Strong, Electromagnetic
+
+
+Symbol
+n, n0, N0
+
+
+Antiparticle
+Antineutron
+
+
+Theorized
+Ernest Rutherford[1][2] (1920)
+
+
+Discovered
+James Chadwick[1] (1932)
+
+
+Mass
+1.674927351(74)×10−27 kg[3]
+939.565378(21) MeV/c2[3]
+1.00866491600(43) u[3]
+
+
+Mean lifetime
+881.5(15) s (free)
+
+
+Electric charge
+0 e
+0 C
+
+
+Electric dipole moment
+< 2.9×10−26 e·cm
+
+
+Electric polarizability
+1.16(15)×10−3 fm3
+
+
+Magnetic moment
+−0.96623647(23)×10−26 J·T−1[3]
+−1.04187563(25)×10−3 μB[3]
+−1.91304272(45) μN[3]
+
+
+Magnetic polarizability
+3.7(20)×10−4 fm3
+
+
+Spin
+1⁄2
+
+
+Isospin
+1⁄2
+
+
+Parity
++1
+
+
+Condensed
+I(JP) = 1⁄2(1⁄2+)
+
+
+nuclear fission 
+boron-10 
+
+Boron
+
+
+5B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+↑
+B
+↓
+Al
+
+
+beryllium ← boron → carbon
+
+
+
+
+
+
+
+
+Boron in the periodic table
+
+
+Appearance
+
+
+black-brown
+
+Boron, shown here in the form of its β-rhombohedral phase (its most thermodynamically stable allotrope)[1]
+
+
+General properties
+
+
+Name, symbol, number
+boron, B, 5
+
+
+Pronunciation
+/ˈbɔərɒn/
+
+
+Element category
+metalloid
+
+
+Group, period, block
+13, 2, p
+
+
+Standard atomic weight
+10.81(1)
+
+
+Electron configuration
+[He] 2s2 2p1
+2, 3
+
+
+Physical properties
+
+
+Phase
+solid
+
+
+Liquid density at m.p.
+2.08 g·cm−3
+
+
+Melting point
+2349 K, 2076 °C, 3769 °F
+
+
+Boiling point
+4200 K, 3927 °C, 7101 °F
+
+
+Heat of fusion
+50.2 kJ·mol−1
+
+
+Heat of vaporization
+508 kJ·mol−1
+
+
+Molar heat capacity
+11.087 J·mol−1·K−1
+
+
+Vapor pressure
+
+
+
+
+
+P (Pa)
+1
+10
+100
+1 k
+10 k
+100 k
+
+
+at T (K)
+2348
+2562
+2822
+3141
+3545
+4072
+
+
+
+
+
+Atomic properties
+
+
+Oxidation states
+3, 2, 1[2]
+(mildly acidic oxide)
+
+
+Electronegativity
+2.04 (Pauling scale)
+
+
+Ionization energies
+(more)
+1st: 800.6 kJ·mol−1
+
+
+2nd: 2427.1 kJ·mol−1
+
+
+3rd: 3659.7 kJ·mol−1
+
+
+Atomic radius
+90 pm
+
+
+Covalent radius
+84±3 pm
+
+
+Van der Waals radius
+192 pm
+
+
+Miscellanea
+
+
+Crystal structure
+rhombohedral
+
+
+
+
+Magnetic ordering
+diamagnetic[3]
+
+
+Electrical resistivity
+(20 °C) ~106 Ω·m
+
+
+Thermal conductivity
+27.4 W·m−1·K−1
+
+
+Thermal expansion
+(25 °C) (β form) 5–7[4] µm·m−1·K−1
+
+
+Speed of sound (thin rod)
+(20 °C) 16,200 m·s−1
+
+
+Mohs hardness
+~9.5
+
+
+CAS registry number
+7440-42-8
+
+
+History
+
+
+Discovery
+Joseph Louis Gay-Lussac and Louis Jacques Thénard[5] (30 June 1808)
+
+
+First isolation
+Humphry Davy[6] (9 July 1808)
+
+
+Most stable isotopes
+
+
+Main article: Isotopes of boron
+
+
+
+
+
+iso
+NA
+half-life
+DM
+DE (MeV)
+DP
+
+
+10B
+19.9(7)%
+10B is stable with 5 neutrons[7]
+
+
+11B
+80.1(7)%
+11B is stable with 6 neutrons[7]
+
+
+10B content may be as low as 19.1% and as high as 20.3% in natural samples. 11B is the remainder in such cases.[8]
+
+
+
+
+
+
+
+
+view
+talk
+edit
+
+
+· references
+
+
+antielectron 
+Positron (antielectron)
+
+
+Cloud chamber photograph by C. D. Anderson of the first positron ever identified. A 6 mm lead plate separates the upper half of the chamber from the lower half. The positron must have come from below since the upper track is bent more strongly in the magnetic field indicating a lower energy.
+
+
+
+Composition
+Elementary particle
+
+
+Statistics
+Fermionic
+
+
+Generation
+First
+
+
+Interactions
+Gravity, Electromagnetic, Weak
+
+
+Symbol
+β+, e+
+
+
+Antiparticle
+Electron
+
+
+Theorized
+Paul Dirac (1928)
+
+
+Discovered
+Carl D. Anderson (1932)
+
+
+Mass
+
+9.10938291(40)×10−31 kg[1]
+5.4857990946(22)×10−4 u[1]
+[1822.8884845(14)]−1 u[note 1]
+0.510998928(11) MeV/c2[1]
+
+
+Electric charge
++1 e
+1.602176565(35)×10−19 C[1]
+
+
+Spin
+1⁄2
+
+
+alpha decay 
+Greek 
+
+Greek
+
+
+ελληνικά
+
+
+Pronunciation
+[eliniˈka]
+
+
+Region
+Eastern Mediterranean
+
+
+
+Native speakers
+
+12 million  (2007)[1]
+13 million (L1 plus L2 speakers) (2012)[2]
+
+
+
+Language family
+
+
+Indo-European
+
+Hellenic
+
+Greek
+
+
+
+
+
+
+
+Dialects
+
+Ancient dialects
+Modern dialects
+
+
+
+
+Writing system
+
+
+
+
+Greek alphabet
+Greek Braille
+
+
+
+
+
+Official status
+
+
+
+Official language in
+
+
+
+
+ Greece
+ Cyprus
+ European Union
+
+
+
+
+
+
+Recognised minority language in
+
+
+
+
+ Albania[3][4]
+ Armenia[5]
+ Hungary[6]
+ Italy[7]
+ Romania[5]
+ Turkey[8]
+ Ukraine[5]
+
+
+
+
+
+Language codes
+
+
+ISO 639-1
+el
+
+
+ISO 639-3
+Variously:
+grc – Ancient Greek
+cpg – Cappadocian Greek
+ell – Modern Greek
+gmy – Mycenaean Greek
+pnt – Pontic
+tsd – Tsakonian
+yej – Yevanic
+
+
+Glottolog
+gree1276[9]
+
+
+Linguasphere
+
+
+
+56-AAA-a
+56-AAA-aa to -am (varieties)
+
+
+
+
+
+This article contains IPA phonetic symbols. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Unicode characters.
+
+
+beta decay 
+cross section 
+X-rays 
+cross sections 
+nucleons 
+Irène Joliot-Curie 
+
+Irène Joliot-Curie
+
+
+
+
+
+Born
+(1897-09-12)12 September 1897
+Paris, France
+
+
+Died
+17 March 1956(1956-03-17) (aged 58)
+Paris, France
+
+
+Residence
+Paris, France
+
+
+Citizenship
+French
+
+
+Nationality
+French, of French and Polish descent
+
+
+Fields
+Chemistry
+
+
+Alma mater
+Sorbonne
+
+
+Doctoral advisor
+Paul Langevin
+
+
+Doctoral students
+her daughters (see below)
+
+
+Notable awards
+Nobel Prize for Chemistry (1935)
+
+
+Spouse
+Frédéric Joliot-Curie (1900–1958)
+
+
+Children
+Hélène Langevin-Joliot (b. 1927)
+Pierre Joliot (b. 1932)
+
+
+photons 
+Photon
+
+
+Photons emitted in a coherent beam from a laser
+
+
+
+Composition
+Elementary particle
+
+
+Statistics
+Bosonic
+
+
+Interactions
+Electromagnetic
+
+
+Symbol
+γ, hν, or ħω
+
+
+Theorized
+Albert Einstein
+
+
+Mass
+0
+<1×10−18 eV/c2[1]
+
+
+Mean lifetime
+Stable[1]
+
+
+Electric charge
+0
+<1×10−35 e[1]
+
+
+Spin
+1
+
+
+Parity
+−1[1]
+
+
+C parity
+−1[1]
+
+
+Condensed
+I(JPC)=0,1(1−−)[1]
+
+
+nuclear reactor 
+fast breeder 
+fusion reaction 
+carbon-14 
+Planck constant 
+spallation 
+chemical element 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top: The periodic table of the chemical elements. Below: Examples of certain chemical elements. From left to right: hydrogen, barium, copper, uranium, bromine, and helium.
+
+
+atoms 
+mean lifetime 
+neutronium 
+neutron number 
+radioisotope 
+baryon number 
+
+Flavour in particle physics
+
+
+Flavour quantum numbers:
+
+Isospin: I or I3
+Charm: C
+Strangeness: S
+Topness: T
+Bottomness: B′
+
+
+Related quantum numbers:
+
+Baryon number: B
+Lepton number: L
+Weak isospin: T or T3
+Electric charge: Q
+X-charge: X
+
+
+Combinations:
+
+Hypercharge: Y
+
+Y = (B + S + C + B′ + T)
+Y = 2 (Q − I3)
+
+
+Weak hypercharge: YW
+
+YW = 2 (Q − T3)
+X + 2YW = 5 (B − L)
+
+
+
+
+
+Flavour mixing
+
+
+CKM matrix
+PMNS matrix
+Flavour complementarity
+
+
+
+This box:
+
+view
+talk
+edit
+
+
+
+
+
+
+W boson 
+W± and Z0 Bosons
+
+Composition
+Elementary particle
+
+
+Statistics
+Bosonic
+
+
+Interactions
+Weak interaction
+
+
+Theorized
+Glashow, Weinberg, Salam (1968)
+
+
+Discovered
+UA1 and UA2 collaborations, CERN, 1983
+
+
+Mass
+W: 80.385±0.015 GeV/c2[1]
+Z: 91.1876±0.0021 GeV/c2[1]
+
+
+Decay width
+W: 2.085±0.042 GeV/c2[1]
+Z: 2.4952±0.0023 GeV/c2 [1]
+
+
+Electric charge
+W: ±1 e
+Z: 0 e
+
+
+Spin
+1
+
+
+neutrino 
+Neutrino/Antineutrino
+
+
+The first use of a hydrogen bubble chamber to detect neutrinos, on November 13, 1970. A neutrino hit a proton in a hydrogen atom. The collision occurred at the point where three tracks emanate on the right of the photograph.
+
+
+
+Composition
+Elementary particle
+
+
+Statistics
+Fermionic
+
+
+Generation
+First, second and third
+
+
+Interactions
+Weak interaction and gravitation
+
+
+Symbol
+ν
+e, ν
+μ, ν
+τ, ν
+e, ν
+μ, ν
+τ
+
+
+Antiparticle
+Antineutrinos are possibly identical to the neutrino (see Majorana fermion).
+
+
+Theorized
+
+ν
+e (Electron neutrino): Wolfgang Pauli (1930)
+ν
+μ (Muon neutrino): Late 1940s
+ν
+τ (Tau neutrino): Mid 1970s
+
+
+Discovered
+ν
+e: Clyde Cowan, Frederick Reines (1956)
+ν
+μ: Leon Lederman, Melvin Schwartz and Jack Steinberger (1962)
+ν
+τ: DONUT collaboration (2000)
+
+
+Types
+3 – electron neutrino, muon neutrino and tau neutrino
+
+
+Mass
+0.320 ± 0.081 eV (sum of 3 flavors)[1][2][3]
+
+
+Electric charge
+0 e
+
+
+Spin
+1⁄2
+
+
+Weak hypercharge
+−1
+
+
+B − L
+−1
+
+
+X
+−3
+
+
+Cold, thermal and hot 
+radiation 
+unstable 
+nuclear transmutations 
+Latin 
+
+Latin
+
+
+Lingua latina
+
+
+
+Latin inscription in the Colosseum
+
+
+
+Pronunciation
+[laˈtiːna]
+
+
+Native to
+Latium, Roman Kingdom, Roman Republic, Roman Empire, Medieval and Early modern Europe, Armenian Kingdom of Cilicia (as lingua franca), Vatican City
+
+
+Ethnicity
+Latins
+
+
+Era
+Vulgar Latin developed into Romance languages, 6th to 9th centuries; the formal language continued as the scholarly lingua franca of Catholic countries medieval Europe and as the liturgical language of the Roman Catholic Church.
+
+
+
+Language family
+
+
+Indo-European
+
+Italic
+
+Latino-Faliscan
+
+Latin
+
+
+
+
+
+
+
+
+
+
+Writing system
+
+Latin alphabet 
+
+
+Official status
+
+
+
+Official language in
+
+ Sovereign Military Order of Malta   Vatican City
+
+
+Regulated by
+In antiquity, Roman schools of grammar and rhetoric.[1] Today, the Pontifical Academy for Latin.
+
+
+Language codes
+
+
+ISO 639-1
+la
+
+
+ISO 639-2
+lat
+
+
+ISO 639-3
+lat
+
+
+Glottolog
+lati1261[2]
+
+
+Linguasphere
+51-AAB-a
+
+
+
+Greatest extent of the Roman Empire, showing the area governed by Latin speakers. Many languages other than Latin, most notably Greek, were spoken within the empire.
+
+
+
+
+Range of the Romance languages, the modern descendants of Latin, in Europe
+
+
+
+This article contains IPA phonetic symbols. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Unicode characters.
+
+
+half-life 
+particle 
+gamma rays 
+lithium-7 
+mode 
+hadron 
+neutron moderator 
+polonium 
+
+Polonium
+
+
+84Po
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Te
+↑
+Po
+↓
+Lv
+
+
+bismuth ← polonium → astatine
+
+
+
+
+
+
+
+
+Polonium in the periodic table
+
+
+Appearance
+
+
+silvery
+
+
+
+General properties
+
+
+Name, symbol, number
+polonium, Po, 84
+
+
+Pronunciation
+/pɵˈloʊniəm/ po-LOH-nee-əm
+
+
+Element category
+other metal
+other metal status is disputed (see article text)
+
+
+Group, period, block
+16 (chalcogens), 6, p
+
+
+Standard atomic weight
+(209)
+
+
+Electron configuration
+[Xe] 6s2 4f14 5d10 6p4
+2, 8, 18, 32, 18, 6
+
+
+Physical properties
+
+
+Phase
+solid
+
+
+Density (near r.t.)
+(alpha) 9.196 g·cm−3
+
+
+Density (near r.t.)
+(beta) 9.398 g·cm−3
+
+
+Melting point
+527 K, 254 °C, 489 °F
+
+
+Boiling point
+1235 K, 962 °C, 1764 °F
+
+
+Heat of fusion
+ca. 13 kJ·mol−1
+
+
+Heat of vaporization
+102.91 kJ·mol−1
+
+
+Molar heat capacity
+26.4 J·mol−1·K−1
+
+
+Vapor pressure
+
+
+
+
+
+P (Pa)
+1
+10
+100
+1 k
+10 k
+100 k
+
+
+at T (K)
+ 
+ 
+ 
+(846)
+1003
+1236
+
+
+
+
+
+Atomic properties
+
+
+Oxidation states
+6, 5,[1] 4, 2, −2
+(amphoteric oxide)
+
+
+Electronegativity
+2.0 (Pauling scale)
+
+
+Ionization energies
+1st: 812.1 kJ·mol−1
+
+
+Atomic radius
+168 pm
+
+
+Covalent radius
+140±4 pm
+
+
+Van der Waals radius
+197 pm
+
+
+Miscellanea
+
+
+Crystal structure
+cubic
+
+
+
+
+Magnetic ordering
+nonmagnetic
+
+
+Electrical resistivity
+(0 °C) (α) 0.40 µΩ·m
+
+
+Thermal conductivity
+ ? 20 W·m−1·K−1
+
+
+Thermal expansion
+(25 °C) 23.5 µm·m−1·K−1
+
+
+CAS registry number
+7440-08-6
+
+
+History
+
+
+Discovery
+Pierre Curie and Marie Curie (1898)
+
+
+First isolation
+Willy Marckwald (1902)
+
+
+Most stable isotopes
+
+
+Main article: Isotopes of polonium
+
+
+
+
+
+iso
+NA
+half-life
+DM
+DE (MeV)
+DP
+
+
+208Po
+syn
+2.898 y
+α
+5.215
+204Pb
+
+
+β+
+1.401
+208Bi
+
+
+209Po
+syn
+103 y
+α
+4.979
+205Pb
+
+
+β+
+1.893
+209Bi
+
+
+210Po
+trace
+138.376 d
+α
+5.307
+206Pb
+
+
+
+
+
+
+
+
+view
+talk
+edit
+
+
+· references
+
+
+neutron activation analysis 
+electron 
+Electron
+
+
+Experiments with a Crookes tube first demonstrated the particle nature of electrons. In this illustration, the profile of the Maltese-cross-shaped target is projected against the tube face at right by a beam of electrons.[1]
+
+
+
+Composition
+Elementary particle[2]
+
+
+Statistics
+Fermionic
+
+
+Generation
+First
+
+
+Interactions
+Gravity, Electromagnetic, Weak
+
+
+Symbol
+e−, β−
+
+
+Antiparticle
+Positron (also called antielectron)
+
+
+Theorized
+Richard Laming (1838–1851),[3]
+G. Johnstone Stoney (1874) and others.[4][5]
+
+
+Discovered
+J. J. Thomson (1897)[6]
+
+
+Mass
+9.10938291(40)×10−31 kg[7]
+5.4857990946(22)×10−4 u[7]
+[1822.8884845(14)]−1 u[note 1]
+0.510998928(11) MeV/c2[7]
+
+
+Electric charge
+−1 e[note 2]
+−1.602176565(35)×10−19 C[7]
+−4.80320451(10)×10−10 [[esu]]
+
+
+Magnetic moment
+−1.00115965218076(27) μB[7]
+
+
+Spin
+1⁄2
+
+
+quantum mechanics 
+quarks 
+Quark
+
+
+A proton, composed of two up quarks and one down quark. (The color assignment of individual quarks is not important, only that all three colors be present.)
+
+
+
+Composition
+Elementary particle
+
+
+Statistics
+Fermionic
+
+
+Generation
+1st, 2nd, 3rd
+
+
+Interactions
+Electromagnetism, Gravitation, Strong, Weak
+
+
+Symbol
+q
+
+
+Antiparticle
+Antiquark (q)
+
+
+Theorized
+Murray Gell-Mann (1964)
+George Zweig (1964)
+
+
+Discovered
+SLAC (~1968)
+
+
+Types
+6 (up, down, strange, charm, bottom, and top)
+
+
+Electric charge
++2⁄3 e, −1⁄3 e
+
+
+Color charge
+Yes
+
+
+Spin
+1⁄2
+
+
+Baryon number
+1⁄3
+
+
+uranium-235 
+nuclear chain reaction 
+bremsstrahlung 
+hydrogen atom 
+molecules 
+antimony-124 
+actinide 
+carbon-12 
+James Chadwick 
+
+Sir James Chadwick
+
+
+
+
+
+Born
+(1891-10-20)20 October 1891
+Bollington, Cheshire, England
+
+
+Died
+24 July 1974(1974-07-24) (aged 82)
+Cambridge, England
+
+
+Citizenship
+United Kingdom
+
+
+Fields
+Physics
+
+
+Institutions
+
+
+
+Physikalisch-Technische Reichsanstalt
+University of Liverpool
+Gonville and Caius College, Cambridge
+Manhattan Project
+
+
+
+
+
+Alma mater
+
+
+
+University of Manchester
+University of Cambridge
+
+
+
+
+
+Doctoral advisor
+Ernest Rutherford
+
+
+Doctoral students
+
+
+
+Maurice Goldhaber
+Ernest C. Pollard
+Charles Drummond Ellis
+
+
+
+
+
+Known for
+
+
+
+Discovery of the neutron
+Maud Committee Report
+Manhattan Project
+
+
+
+
+
+Notable awards
+
+
+
+Fellow of the Royal Society (1927)[1]
+Hughes Medal (1932)
+Mackenzie-Davidson Medal (1932)
+Nobel Prize in Physics (1935)
+Knight Bachelor (1945)
+Melchett Medal (1946)
+Copley Medal (1950)
+Faraday Medal (1950)
+Franklin Medal (1951)
+Guthrie Medal and Prize (1967)
+Companion of Honour (1970)
+
+
+
+
+
+weak interaction 
+velocity selection 
+electric charge 
+
+Flavour in particle physics
+
+
+Flavour quantum numbers:
+
+Isospin: I or I3
+Charm: C
+Strangeness: S
+Topness: T
+Bottomness: B′
+
+
+Related quantum numbers:
+
+Baryon number: B
+Lepton number: L
+Weak isospin: T or T3
+Electric charge: Q
+X-charge: X
+
+
+Combinations:
+
+Hypercharge: Y
+
+Y = (B + S + C + B′ + T)
+Y = 2 (Q − I3)
+
+
+Weak hypercharge: YW
+
+YW = 2 (Q − T3)
+X + 2YW = 5 (B − L)
+
+
+
+
+
+Flavour mixing
+
+
+CKM matrix
+PMNS matrix
+Flavour complementarity
+
+
+
+This box:
+
+view
+talk
+edit
+
+
+
+
+
+
+Pauli exclusion principle 
+alpha particles 
+Alpha particle
+
+
+
+
+
+Alpha decay
+
+
+
+Composition
+2 protons, 2 neutrons
+
+
+Statistics
+Bosonic
+
+
+Symbol
+α, α2+, He2+
+
+
+Mass
+
+6.64465675(29)×10−27 kg[1]
+4.001506179125(62) u
+3.727379240(82) GeV/c2
+
+
+Electric charge
+2 e
+
+
+Spin
+0[2]
+
+
+standard deviations 
+dineutron 
+radioactive decay 
+particle accelerators 
+neutron's magnetic moment 
+moderate 
+subatomic 
+joules 
+
+
+
+SI multiples for joule (J)
+
+Submultiples
+
+Multiples
+
+
+Value
+Symbol
+Name
+Value
+Symbol
+Name
+
+
+10−1 J
+dJ
+decijoule
+101 J
+daJ
+decajoule
+
+
+10−2 J
+cJ
+centijoule
+102 J
+hJ
+hectojoule
+
+
+10−3 J
+mJ
+millijoule
+103 J
+kJ
+kilojoule
+
+
+10−6 J
+µJ
+microjoule
+106 J
+MJ
+megajoule
+
+
+10−9 J
+nJ
+nanojoule
+109 J
+GJ
+gigajoule
+
+
+10−12 J
+pJ
+picojoule
+1012 J
+TJ
+terajoule
+
+
+10−15 J
+fJ
+femtojoule
+1015 J
+PJ
+petajoule
+
+
+10−18 J
+aJ
+attojoule
+1018 J
+EJ
+exajoule
+
+
+10−21 J
+zJ
+zeptojoule
+1021 J
+ZJ
+zettajoule
+
+
+10−24 J
+yJ
+yoctojoule
+1024 J
+YJ
+yottajoule
+
+
+Common multiples are in bold face
+
+
+
+
+
+charged 
+
+Flavour in particle physics
+
+
+Flavour quantum numbers:
+
+Isospin: I or I3
+Charm: C
+Strangeness: S
+Topness: T
+Bottomness: B′
+
+
+Related quantum numbers:
+
+Baryon number: B
+Lepton number: L
+Weak isospin: T or T3
+Electric charge: Q
+X-charge: X
+
+
+Combinations:
+
+Hypercharge: Y
+
+Y = (B + S + C + B′ + T)
+Y = 2 (Q − I3)
+
+
+Weak hypercharge: YW
+
+YW = 2 (Q − T3)
+X + 2YW = 5 (B − L)
+
+
+
+
+
+Flavour mixing
+
+
+CKM matrix
+PMNS matrix
+Flavour complementarity
+
+
+
+This box:
+
+view
+talk
+edit
+
+
+
+
+
+
+moderation 
+isotope 
+magnetic fields 
+plutonium-239 
+fission 
+tetraneutrons 
+protons 
+Proton
+
+
+The quark structure of the proton. (The color assignment of individual quarks is not important, only that all three colors are present.)
+
+
+
+Classification
+Baryon
+
+
+Composition
+2 up quarks, 1 down quark
+
+
+Statistics
+Fermionic
+
+
+Interactions
+Gravity, Electromagnetic, Weak, Strong
+
+
+Symbol
+p, p+, N+
+
+
+Antiparticle
+Antiproton
+
+
+Theorized
+William Prout (1815)
+
+
+Discovered
+Ernest Rutherford (1917–1919, named by him, 1920)
+
+
+Mass
+
+1.672621777(74)×10−27 kg[1]
+938.272046(21) MeV/c2[1]
+1.007276466812(90) u[1]
+
+
+Mean lifetime
+>2.1×1029 years (stable)
+
+
+Electric charge
++1 e
+1.602176565(35)×10−19 C[1]
+
+
+Charge radius
+0.8775(51) fm[1]
+
+
+Electric dipole moment
+<5.4×10−24 e·cm
+
+
+Electric polarizability
+1.20(6)×10−3 fm3
+
+
+Magnetic moment
+
+1.410606743(33)×10−26 J·T−1[1]
+1.521032210(12)×10−3 μB[1]
+2.792847356(23) μN[1]
+
+
+Magnetic polarizability
+1.9(5)×10−4 fm3
+
+
+Spin
+1⁄2
+
+
+Isospin
+1⁄2
+
+
+Parity
++1
+
+
+Condensed
+I(JP) = 1⁄2(1⁄2+)
+
+
+mass 
+University of Cambridge 
+Rankings
+
+ARWU[11]
+(2013, national)
+1
+
+
+ARWU[11]
+(2013, world)
+5
+
+
+QS[12]
+(2013/14, national)
+1
+
+
+QS[12]
+(2013/14, world)
+3
+
+
+THE[13]
+(2013/14, national)
+=2
+
+
+THE[13]
+(2013/14, world)
+=7
+
+
+THE Reputation[115]
+(2014, national)
+1
+
+
+THE Reputation[115]
+(2014, world)
+4
+
+
+
+
+
+Complete[116]
+(2015, national)
+1
+
+
+The Guardian[117]
+(2015, national)
+1
+
+
+Times/Sunday Times[118]
+(2014, national)
+1
+
+
+condensed matter 
+depleted uranium 
+reactivity 
+Boltzmann distributed 
+Maxwell–Boltzmann
+
+
+Probability density function
+
+
+
+
+Cumulative distribution function
+
+
+
+Parameters
+
+
+
+Support
+
+
+
+pdf
+
+
+
+CDF
+ where erf is the Error function
+
+
+Mean
+
+
+
+Mode
+
+
+
+Variance
+
+
+
+Skewness
+
+
+
+Ex. kurtosis
+
+
+
+Entropy
+
+
+
+thermonuclear weapons 
+electron capture 
+neutron probe 
+atom 
+boron 
+
+Boron
+
+
+5B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+↑
+B
+↓
+Al
+
+
+beryllium ← boron → carbon
+
+
+
+
+
+
+
+
+Boron in the periodic table
+
+
+Appearance
+
+
+black-brown
+
+Boron, shown here in the form of its β-rhombohedral phase (its most thermodynamically stable allotrope)[1]
+
+
+General properties
+
+
+Name, symbol, number
+boron, B, 5
+
+
+Pronunciation
+/ˈbɔərɒn/
+
+
+Element category
+metalloid
+
+
+Group, period, block
+13, 2, p
+
+
+Standard atomic weight
+10.81(1)
+
+
+Electron configuration
+[He] 2s2 2p1
+2, 3
+
+
+Physical properties
+
+
+Phase
+solid
+
+
+Liquid density at m.p.
+2.08 g·cm−3
+
+
+Melting point
+2349 K, 2076 °C, 3769 °F
+
+
+Boiling point
+4200 K, 3927 °C, 7101 °F
+
+
+Heat of fusion
+50.2 kJ·mol−1
+
+
+Heat of vaporization
+508 kJ·mol−1
+
+
+Molar heat capacity
+11.087 J·mol−1·K−1
+
+
+Vapor pressure
+
+
+
+
+
+P (Pa)
+1
+10
+100
+1 k
+10 k
+100 k
+
+
+at T (K)
+2348
+2562
+2822
+3141
+3545
+4072
+
+
+
+
+
+Atomic properties
+
+
+Oxidation states
+3, 2, 1[2]
+(mildly acidic oxide)
+
+
+Electronegativity
+2.04 (Pauling scale)
+
+
+Ionization energies
+(more)
+1st: 800.6 kJ·mol−1
+
+
+2nd: 2427.1 kJ·mol−1
+
+
+3rd: 3659.7 kJ·mol−1
+
+
+Atomic radius
+90 pm
+
+
+Covalent radius
+84±3 pm
+
+
+Van der Waals radius
+192 pm
+
+
+Miscellanea
+
+
+Crystal structure
+rhombohedral
+
+
+
+
+Magnetic ordering
+diamagnetic[3]
+
+
+Electrical resistivity
+(20 °C) ~106 Ω·m
+
+
+Thermal conductivity
+27.4 W·m−1·K−1
+
+
+Thermal expansion
+(25 °C) (β form) 5–7[4] µm·m−1·K−1
+
+
+Speed of sound (thin rod)
+(20 °C) 16,200 m·s−1
+
+
+Mohs hardness
+~9.5
+
+
+CAS registry number
+7440-42-8
+
+
+History
+
+
+Discovery
+Joseph Louis Gay-Lussac and Louis Jacques Thénard[5] (30 June 1808)
+
+
+First isolation
+Humphry Davy[6] (9 July 1808)
+
+
+Most stable isotopes
+
+
+Main article: Isotopes of boron
+
+
+
+
+
+iso
+NA
+half-life
+DM
+DE (MeV)
+DP
+
+
+10B
+19.9(7)%
+10B is stable with 5 neutrons[7]
+
+
+11B
+80.1(7)%
+11B is stable with 6 neutrons[7]
+
+
+10B content may be as low as 19.1% and as high as 20.3% in natural samples. 11B is the remainder in such cases.[8]
+
+
+
+
+
+
+
+
+view
+talk
+edit
+
+
+· references
+
+
+ordinary water 
+CANDU 
+cosmic rays 
+hydrogen-1 
+up quark 
+Up quark
+
+Composition
+Elementary particle
+
+
+Statistics
+Fermionic
+
+
+Generation
+First
+
+
+Interactions
+Strong, Weak, Electromagnetic force, Gravity
+
+
+Symbol
+u
+
+
+Antiparticle
+Up antiquark (u)
+
+
+Theorized
+Murray Gell-Mann (1964)
+George Zweig (1964)
+
+
+Discovered
+SLAC (1968)
+
+
+Mass
+2.3+0.7
+−0.5 MeV/c2[1]
+
+
+Decays into
+Stable or Down quark + Positron + Electron neutrino
+
+
+Electric charge
++2⁄3 e
+
+
+Color charge
+Yes
+
+
+Spin
+1⁄2
+
+
+Weak isospin
+LH: +1⁄2, RH: 0
+
+
+Weak hypercharge
+LH: +1⁄3, RH: +4⁄3
+
+
+electric dipole moment 
+antiproton 
+Antiproton
+
+
+The quark structure of the antiproton.
+
+
+
+Classification
+Antibaryon
+
+
+Composition
+2 up antiquarks, 1 down antiquark
+
+
+Statistics
+Fermionic
+
+
+Interactions
+Strong, Weak, Electromagnetic, Gravity
+
+
+Status
+Discovered
+
+
+Symbol
+p
+
+
+Particle
+Proton
+
+
+Discovered
+Emilio Segrè & Owen Chamberlain (1955)
+
+
+Mass
+938 MeV/c2
+
+
+Electric charge
+−1 e
+
+
+Spin
+1⁄2
+
+
+Isospin
+1⁄2
+
+
+magnetic 
+prompt gamma neutron activation analysis 
+heavy nuclei 
+chain reaction 
+Maxwell–Boltzmann distribution 
+Maxwell–Boltzmann
+
+
+Probability density function
+
+
+
+
+Cumulative distribution function
+
+
+
+Parameters
+
+
+
+Support
+
+
+
+pdf
+
+
+
+CDF
+ where erf is the Error function
+
+
+Mean
+
+
+
+Mode
+
+
+
+Variance
+
+
+
+Skewness
+
+
+
+Ex. kurtosis
+
+
+
+Entropy
+
+
+
+alpha particle 
+Alpha particle
+
+
+
+
+
+Alpha decay
+
+
+
+Composition
+2 protons, 2 neutrons
+
+
+Statistics
+Bosonic
+
+
+Symbol
+α, α2+, He2+
+
+
+Mass
+
+6.64465675(29)×10−27 kg[1]
+4.001506179125(62) u
+3.727379240(82) GeV/c2
+
+
+Electric charge
+2 e
+
+
+Spin
+0[2]
+
+
+transient 
+citation needed 
+kinetic theory 
+map[collection:3 used:7 frequency:3 computed:1 each:1 tf–idf:13 frequency–inverse:3 frequency,:3 fact:3 for:9 intended:3 value:3 query.:2 it:4 article:8 sources:4 introducing:4 (July:4 tf–idf,:3 or:3 retrieval:3 tf-idf:3 user:2 One:1 query:1 citations.:8 factor:3 functions:2 free:7 precise:4 word:9 given:2 sophisticated:1 from:6 insufficient:4 tool:2 as:5 offset:3 than:3 successfully:2 fields:2 list:4 engines:2 stop-words:2 summing:1 variants:1 document,:3 scheme:2 subject:2 term;:1 unclear:4 short:3 numerical:3 statistic:3 information:3 times:3 common:3 search:2 the:29 of:14 remain:4 because:4 reflect:3 document's:2 encyclopedia:7 important:3 words:3 others.:3 scoring:2 simple:1 but:7 appears:3 generally:3 filtering:2 document:6 and:7 be:2 various:2 simplest:1 many:1 references,:4 its:4 The:3 proportionally:3 number:3 helps:3 summarization:2 can:2 has:4 inline:4 Variations:2 This:4 text:5 that:6 how:3 Wikipedia,:7 by:10 corpus.[1]:8:3 ranking:4 From:7 :17 includes:4 Please:4 2012):4 increases:3 are:6 to:16 improve:4 control:3 relevance:2 (Redirected:6 this:5 It:3 mining.:3 including:2 a:28 more:8 corpus,:3 some:3 central:2 Tf-idf):6 help:4 term:3 is:16 in:16 often:5 weighting:5 which:3 model.:1 classification.:2]
